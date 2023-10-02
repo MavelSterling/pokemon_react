@@ -1,0 +1,22 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+  margin-left: auto; /* centrará el contenido */
+  margin-right: auto; /* centrará el contenido */
+}
+
+input, button {
+  margin: 10px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+.App ul {
+  list-style-type: none;
+  padding-left: 0; /* esto elimina el padding predeterminado para listas */
+}
