@@ -10,4 +10,4 @@ Tipos (Listado)
 
 Habilidades (Listado)
 
-El end-point para consultar los Pokémon: https://pokeapi.co/api/v2/pokemon/{id or name}/
+El end-point para consultar los Pokémon: ```https://pokeapi.co/api/v2/pokemon/{id or name}/ ```
